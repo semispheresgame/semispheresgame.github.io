@@ -1,0 +1,24 @@
+{
+  "title": "Semispheres",
+  "largeLinks": [
+    {
+      "name": "Semispheres - Home",
+      "link": ".."
+    }
+  ],
+  "layout": {
+    "40%_Width": [
+      "factsheet"
+    ],
+    "60%_Width": [
+      "description",
+      "history",
+      "features"
+    ],
+    "50%_Width": [
+      "credits",
+      "contact"
+    ]
+  },
+  "googleAnalytics": "UA-44916152-1"
+}
